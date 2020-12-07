@@ -1,6 +1,7 @@
 package leetcode643;
 
 public class FindMaximumAverageOfK {
+	// O(n) time.
     public double findMaxAverage(int[] nums, int k) {
         long sum = 0;
         
